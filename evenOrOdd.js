@@ -6,5 +6,5 @@ function even_or_odd(number){
     }
 }
 
-even_or_odd(2); //even
-even_or_odd(5); //odd
+even_or_odd(2); //return even
+even_or_odd(5); //return odd
